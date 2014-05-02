@@ -1,4 +1,4 @@
-lab03_jolting
-=============
+CS130E-S14-Labs
+===============
 
-lab03 for Hunter Laux
+labs for CS130E-S14
